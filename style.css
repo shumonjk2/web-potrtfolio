@@ -1,7 +1,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #E8f9fc;
+    
 }
 
 h1{
@@ -13,10 +13,13 @@ h1{
 .Shumon{
     color: #FF8367;
 }
-p{
-    font-family: 'Poppins', sans-serif;
-    font-size: 16px;
-    color: #3E3E3E;
-    line-height: 24px;
-    margin-bottom: 40px;
+
+.half-width{
+    width: 40px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 200%;
 }
