@@ -3,7 +3,6 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
-
 h1{
     font-size: 50px;
 }
@@ -14,12 +13,12 @@ h1{
     color: #FF8367;
 }
 
-.half-width{
+.main-half-section{
     width: 40px;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
-.half-width img{
-    width: 200%;
+.main-half-section {
+    width: 100%;
 }
