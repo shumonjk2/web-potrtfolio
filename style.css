@@ -14,11 +14,13 @@ h1{
 }
 
 .main-half-section{
-    width: 40px;
+    width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
-.main-half-section {
+
+
+.main-half-section img{
     width: 100%;
 }
